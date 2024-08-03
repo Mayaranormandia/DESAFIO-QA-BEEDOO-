@@ -5,7 +5,9 @@ As Users story é fundamental para explicar informalmente sobre um recurso do Si
 Considerando então as seguintes storys:
 
 1- Como usuário perfil Administrador, quero realizar meu login  no site com sucesso e ter a opção de cadastrar um novo Curso.
+
 2- Como usuário Administrador logado quero listar os cursos que cadastrei e e visualizar o qual o nome do curso, modalidade, perído e quantidade de vagas.
+
 3- Como usuário Administrador logado quero excluir um curso que já foi concluído ou cancelado.
 
     Casos de Testes:
